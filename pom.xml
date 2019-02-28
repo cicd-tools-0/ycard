@@ -29,4 +29,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-83-115-snapshots</name>
+        <url>http://ec2-3-82-232-54.compute-1.amazonaws.com:8081/artifactory/libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
