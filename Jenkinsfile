@@ -1,5 +1,5 @@
 def testmethod(String name = 'human'){
-   echo "Test,$(name)"
+   echo "Test, $(name)"
 }
 node ("maven_label"){
    
