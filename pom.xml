@@ -32,13 +32,13 @@
   <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-83-115-snapshots</name>
-        <url>http://ec2-52-91-227-173.compute-1.amazonaws.com:8081/artifactory/libs-snapshot</url>
+        <name>ip-172-31-34-122-snapshots</name>
+        <url>http://ec2-52-15-162-75.us-east-2.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
-        <name>ip-172-31-83-115-releases</name>
-        <url>http://ec2-52-91-227-173.compute-1.amazonaws.com:8081/artifactory/libs-release</url>
+        <name>ip-172-31-34-122-releases</name>
+        <url>http://ec2-52-15-162-75.us-east-2.compute.amazonaws.com:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 </project>
